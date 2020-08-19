@@ -17,7 +17,7 @@
   "ublock-filters": {
     "content": "filters",
     "group": "default",
-    "title": "uBlock filters",
+    "title": "SHLD Project filters",
     "contentURL": [
       "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt"
     ],
@@ -31,7 +31,7 @@
   "ublock-badware": {
     "content": "filters",
     "group": "default",
-    "title": "uBlock filters – Badware risks",
+    "title": "SHLD Project filters – Badware risks",
     "contentURL": [
       "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt"
     ],
@@ -41,7 +41,7 @@
   "ublock-privacy": {
     "content": "filters",
     "group": "default",
-    "title": "uBlock filters – Privacy",
+    "title": "SHLD Project filters – Privacy",
     "contentURL": [
       "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt"
     ]
@@ -49,7 +49,7 @@
   "ublock-abuse": {
     "content": "filters",
     "group": "default",
-    "title": "uBlock filters – Resource abuse",
+    "title": "SHLD Project filters – Resource abuse",
     "contentURL": [
       "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt"
     ]
@@ -57,7 +57,7 @@
   "ublock-unbreak": {
     "content": "filters",
     "group": "default",
-    "title": "uBlock filters – Unbreak",
+    "title": "SHLD Project filters – Unbreak",
     "contentURL": [
       "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt"
     ],
@@ -207,7 +207,7 @@
   "ublock-annoyances": {
     "content": "filters",
     "group": "social",
-    "title": "uBlock filters – Annoyances",
+    "title": "SHLD Project filters – Annoyances",
     "off": true,
     "contentURL": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt",
     "cdnURLs": [
