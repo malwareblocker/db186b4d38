@@ -3,7 +3,7 @@
     "content": "internal",
     "updateAfter": 13,
     "contentURL": [
-      "https://raw.githubusercontent.com/malwareblocker/Advir-Protect-API/master/assets.json"
+      "https://raw.githubusercontent.com/malwareblocker/db186b4d38/master/assets.json"
     ]
   },
   "public_suffix_list.dat": {
